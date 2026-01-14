@@ -1,0 +1,1 @@
+this folder has ADO pipelines. should be yaml for both sourcecode and terraform.
